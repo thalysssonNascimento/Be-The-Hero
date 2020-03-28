@@ -22,11 +22,6 @@ para inicializar a API na porta 3333
 yarn dev
 ```
 
-## Aplicando segurança no Node.js
-
-Helmet
-CORS
-
 Frontend
 
 Para instalar todas as dependências
@@ -51,6 +46,11 @@ para inicializar a aplicação em um dispositivo real ou emulador
 
 ```bash
 yarn start
+```
+## Aplicando segurança no Node.js
+
+Helmet
+CORS
 
 # Conclusão
 
